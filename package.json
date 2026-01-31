@@ -1,6 +1,6 @@
 {
   "name": "kirby-locator",
-  "version": "0.0.1",
+  "version": "2.1.1",
   "description": "A map & geolocation field, built on top of open-source services / Mapbox",
   "main": "index.js",
   "author": "Sylvain Julé",
